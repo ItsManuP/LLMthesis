@@ -25,7 +25,7 @@ os.environ["OPENAI_API_KEY"] = "Insert your OpenAI key Here"
 streamlit.set_page_config(page_title='Michela Murgia LLM')
 
 
-streamlit.image("https://www.donnamoderna.com/content/uploads/2023/05/michela-murgia-2023.jpg",caption='Michela Murgia mentre parla della sua malattia')
+streamlit.image("https://www.donnamoderna.com/content/uploads/2023/05/michela-murgia-2023.jpg")
 
 
 streamlit.header("Se hai qualche domanda sulle opere di Michela Murgia, chiedi pure")
